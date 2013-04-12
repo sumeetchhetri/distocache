@@ -1,0 +1,16 @@
+#List of properties for configuring Distocache
+PROT_TYPE=tcp
+SERV_ADDRS=
+PORT=7001
+ADMIN_PORT=8089
+SPOOL_SIZ=2
+NUM_RETRIES=3
+THRD_PREQ=true
+THRD_PSIZ=30
+SSL_ENAB=false
+KEYFILE=server.pem
+PASSWORD=password
+DHFILE=dh1024.pem
+CA_LIST=root.pem
+RANDOM=random.pem
+CLIENT_SEC_LEVEL=
