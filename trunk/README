@@ -1,0 +1,20 @@
+README
+
+A Distributed Object caching system
+Sumeet Chhetri
+12-04-2013
+
+FEATURES
+
+
+REQUIREMENTS
+1. Any box that runs linux, BSD, Solaris or Windows/Cygwin
+2. OpenSSl and development files
+3. GCC C++ compiler, make, configure etc
+
+
+INSTALL
+Refer the INSTALL-SOLARIS file for installation directions.
+
+
+Copyright © 2013 Sumeet Chhetri
